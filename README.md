@@ -2,7 +2,7 @@
 I'm currently in my second year studying computer science at the University of Central Florida
 
 🔭 I’m currently working on ...
-* Building a VR vs PC local-multiplayer game for Steam release as a Unity software engineer intern @ [A Square Games & Simulations, LLC](https://asquaregamesandsimulation.com/)
+* Building a VR vs PC multiplayer game for Steam release as a Unity software engineer intern @ [A Square Games & Simulations, LLC](https://asquaregamesandsimulation.com/)
 * Creating a PC & mobile online multiplayer cross-platform project in the Unity engine
 
 <!--
