@@ -1,4 +1,5 @@
 ### Hi there! I'm Ethan Constant 👋
+I'm currently in my second year studying computer science at the University of Central Florida
 
 <!--
 **EthanC43850/EthanC43850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
