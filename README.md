@@ -1,12 +1,16 @@
 ### Hi there! I'm Ethan Constant 👋
 I'm currently in my second year studying computer science at the University of Central Florida
 
+🔭 I’m currently working on ...
+* Building a VR vs PC local-multiplayer game for Steam release as a Unity software engineer intern @ [A Square Games & Simulations, LLC](https://asquaregamesandsimulation.com/)
+* Creating a PC & mobile online multiplayer cross-platform project in the Unity engine
+
 <!--
 **EthanC43850/EthanC43850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
