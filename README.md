@@ -2,7 +2,7 @@
 I'm currently studying computer science at the University of Central Florida
 
 🔭 I’m currently working on ...
-* Building a VR multiplayer game for Steam release as a Unity engineer
+* Building a VR multiplayer game called 'Cards & Castles' for Steam release using Unity
 
 <!--
 **EthanC43850/EthanC43850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
